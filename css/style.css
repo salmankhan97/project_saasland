@@ -42,8 +42,10 @@ img{
 }
 .link{
     background-color: #7f56f5;
-    padding: 12px;
+    padding: 17px 9px;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: 600;
 }
